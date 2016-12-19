@@ -512,10 +512,8 @@
  RUS_ww1_orthodox_church_desc:0 "The majority of Eastern Orthodox Christians live in Greece, Eastern Europe, the Caucasus and Russia."
  RUS_ww1_tsushima_humiliation:0 "Tsushima Humiliation"
  RUS_ww1_tsushima_humiliation_desc:0 "The Battle of Tsushima was humiliating for Russia, which lost all its battleships and most of its cruisers and destroyers. The battle effectively ended the Russo-Japanese War in Japan's favour."
-
-
- RUS_russian_rail:0 "Russian Rail Gauge"
- RUS_russian_rail_desc:0 "The Russian rail system is both a blessing and a curse. It is a different gauge than the rest of Europe and is often plagued by poor quality. This presents an advantage on home soil since the enemy cannot use the railways, but Russian rail is poorly setup for offensive action and the frequent derailments cause unnecessary supply problems."
+ RUS_ww1_mixed_railways:0 "Limited Railway Infrastructure"
+ RUS_ww1_mixed_railways_desc:0 "Due in part to the poor financial state of the Tsarist government and their inability to finance railroad construction, by the early 1880s all railroads were private companies. But then as private railroads got into financial difficultly, the government took over some of them, resulting in mixed system of private and government railways."
 
  FRA_ww1_Revanchism:0 "Revanchism"
  FRA_ww1_Revanchism_desc:0 "In the aftermath of the Franco-Prussian War of 1870, a lot of nationalists wanted to avenge the French defeat and reclaim the lost territories of Alsace-Lorraine."

@@ -225,7 +225,7 @@ AUH_ww1_sovereignist_ethos:0 "Centralization"
 AUH_ww1_sovereignist_ethos_desc:0 "" #KAISER_ANONY
 
 AUH_ww1_support_kaiser:0 "Reinforce Emperor's Authority"
-AUH_ww1_support_kaiser_desc:0 "His royal majesty the Kaiser und Konig has wisely ruled over our nation for a long time, but threats to his rule have been beginning to pop up. From Nationalists trying to break out to Republicans trying to Federalists trying to form into a more regionalist democracy, the throne has earned many enemies internally. We must conduct an image reworking campaign for the K.u.K. to help secure his grasp on Austria-Hungary."
+AUH_ww1_support_kaiser_desc:0 "His royal majesty the Kaiser und Konig has wisely ruled over our nation for a long time, but threats to his rule have been brewing. From Nationalists trying to break out to Federalists trying to form into a regionalist democracy, the throne has earned many enemies internally. We must conduct an image reworking campaign for the K.u.K. to help secure his power."
 
 AUH_ww1_contest_kaiser:0 "Contest Emperor's Authority"
 AUH_ww1_contest_kaiser_desc:0 "Perhaps Monarchy is no way to rule a multinationalist state anymore. The Kaiser und Konig is harshly unpopular outside of Austria itself, and has many enemies within his own home part of the Empire. If we weaken his authority from within, what chance does he have to retain his rule? More powerful parties can then take his place."
@@ -279,7 +279,7 @@ AUH_ww1_full_rearmament:0 "Harsh Rationing"
 AUH_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
 
 AUH_ww1_unitedpeople:0 "Unify the Realm"
-AUH_ww1_unitedpeople_desc:0 "A curious change in the pace of Austrian politics has taken place. Perhaps the people of the non-Austrian segments of the population have accepted their place here, or perhaps they are simply tired of the yammering on of " #KAISER_ANONY
+AUH_ww1_unitedpeople_desc:0 "A curious change in the pace of Austrian politics has taken place. Perhaps the people of the non-Austrian segments of the population have accepted their place here, or perhaps they are simply tired of the yammering on of the bleeding-heart nationalists." 
 
 AUH_ww1_massive_effort:0 "Massive Effort"
 AUH_ww1_massive_effort_desc:0 "" #KAISER_ANONY
@@ -303,7 +303,7 @@ AUH_ww1_end_dual_monarchy_emperor:0 "End Dual Monarchy"
 AUH_ww1_end_dual_monarchy_emperor_desc:0 "Hungary has only served to drive Austria down. By renouncing the Hungarian throne as one of our core titles, and instead relegating it to subject of Austria, we will remind everyone who is in charge here. Some of those moustachioed barbarians may complain, but what does that matter? We beat them in 1846, we can do it again if need be." 
 
 AUH_ww1_oppression_minorities:0 "Oppress Minorities"
-AUH_ww1_oppression_minorities_desc:0 "The best way to ensure loyalty to the Austrian throne from minority groups is to make them avoid identifying with each other to begin with. By making publications and public speeches in other languages illegal, punishing citizens who fail to confirm to our cultural norms, and enforcing local inferiority to our main culture, we can fool some of the group into thinking they are one of us, and keep the others from speaking out against us."
+AUH_ww1_oppression_minorities_desc:0 "The best way to ensure loyalty from minority groups is to make them avoid identifying with each other. By making publications in other languages illegal, punishing citizens who fail to confirm to our culture, and enforcing local inferiority, we can fool some into thinking they are one of us, and keep the others from speaking out against us."
 
 AUH_ww1_autrichian_lead:0 "Austrian HQ"
 AUH_ww1_autrichian_lead_desc:0 "With the end of the Dual Monarchy and the centralization of the realm under Austria, the Military has once again become a unified organization, with Austrian military leaders at the top. Though the officers of other nationalities are protesting, having a solid, cohesive military again has provided benefits to our doctrine and its spread." 
@@ -312,7 +312,7 @@ AUH_ww1_same_language:0 "Ban Minority Languages"
 AUH_ww1_same_language_desc:0 "German is the only language you're allowed to speak. This isn't the German version of this mod, so don't tell anyone you're reading this description, or that you heard it from me."
 
 AUH_ww1_dismantle_auh:0 "Dismantle Austria-Hungary"
-AUH_ww1_dismantle_auh_desc:0 "The dream of a united Austro-Hungarian monarchy lies broken. Perhaps we should cast aside our dreams of multinationalism, and purs"
+AUH_ww1_dismantle_auh_desc:0 "The dream of a united Austro-Hungarian monarchy lies broken. Perhaps we should cast aside our dreams of multinationalism, and pursue our own destiny."
 
 AUH_ww1_make_concessions:0 "Make Concessions"
 AUH_ww1_make_concessions_desc:0 "The Aristocrats are growing increasingly concerned that the Kaiser is giving out too many favorable rights too quickly, and may pass the throne over. What do they know?"
@@ -339,7 +339,7 @@ AUH_ww1_military_advisors_desc:0 "They say that Prussia was hatched from a canno
 AUH_ww1_back_italy:0 "Securing Italian Loyalty"
 AUH_ww1_back_italy_desc:0 "The Italians are, to say the least, not exactly on the friendliest terms with us. We should start negotiations with them, in order to establish more amicable relations, if we hope to keep them in our alliance. Of course, if we go through with this, we'll probably end up losing territory..."
 
-AUH_ww1_give_italy_territories:0 "Give Zara and Istria"
+AUH_ww1_give_italy_territories:0 "Give South Tyrol and Istria"
 AUH_ww1_give_italy_territories_descn:0 "The Italians have made their demands clear: The historically Italian region of Istria, as well as a concession around the city of Split on the Dalmatian coast. Unfortunately, this is all coastal territory, but it might be a price worth paying to keeep Italy aligned with the Central Powers." 
 
 AUH_ww1_italy_honnor_pact:0 "Call Italy to War"
@@ -359,7 +359,7 @@ AUH_ww1_italy_honnor_pact_desc:0 "Italy is now essentially forced to join up in 
  AUH_ww1_rom_desc:0 "The Romanians are a thorn in our side. We control a large portion of their territory, and though they're officially a minor member of the Triple Alliance, there is no doubt that they eye our territory with envy. We should extend good tidings out to them, to try and get them back closer to the winning team. Of course, to truly win them over might take concession..."
 
  AUH_ww1_rom_give_bucovina:0 "Give Bucovina to Romania"
- AUH_ww1_rom_give_bucovina_desc:0 "Bucovina is not a significant amount of territory, but it's some of the most Romanian land in the Austro-Hungarian Empire. Conceding this territory is not guaranteed to win their heart, but it's certainly worth making an offer- we're a lot better off with a solid ally than 2 inches of land."
+ AUH_ww1_rom_give_bucovina_desc:0 "Bucovina is not a significant amount of territory, but it's some of the most Romanian land in the Austro-Hungarian Empire. Conceding this territory is not guaranteed to win their heart, but it's certainly worth making an offer- we're a lot better off with a solid ally than a few inches of land."
 
  AUH_ww1_rom_honnor_pact:0 "Call Romania to War"
  AUH_ww1_rom_honnor_pact_desc:0 "Since Romania accepted our offer of Bucovina, we are in a good position to call them into the current conflict. There is no doubt that if they decline, their people will be most displeased with them."
@@ -374,13 +374,13 @@ AUH_ww1_italy_honnor_pact_desc:0 "Italy is now essentially forced to join up in 
  AUH_ww1_airport_russian_borders_desc:0 "The advent of combat aeroplanes may very well be a deciding factor in the war in the East. If we build airstrips out this way early and well, we can host more planes in the region, making it a more likely prospect to break enemy air superiority and, by extension, win crucial battles in the region."
 
  AUH_ww1_fortify_italian_borders:0 "Fortify Italian Borders"
- AUH_ww1_fortify_italian_borders_desc:0 "The Italian border is long and oddly curved, making it difficult for units to support each other. Worse yet, the Italians themselves are deeply entrenched at the bottoms of mountain chains and in fortified urban areas. Since we are unlikely to break into it any time soon, we must be sure that we can at the very least defend from that direction."
+ AUH_ww1_fortify_italian_borders_desc:0 "The Italian border is long and oddly curved, making it difficult for units to support each other. Worse yet, the Italians themselves are entrenched at the bottoms of mountain chains and in fortified urban areas. Since we are unlikely to break into it any time soon, we must be sure that we can at the very least defend from that direction."
 
  AUH_ww1_fortify_bosnia_borders:0 "Fortify Balkans Borders"
  AUH_ww1_fortify_bosnia_borders_desc:0 "It is highly unlikely that the Balkans will give us serious issues, but it is always better to be safe than sorry, lest French marines arriving in the region give us a rude awakening. It will also deny Serbia and Montenegro the chance to attack into our territory to any degree, further making for a safe Balkan campaign."
 
  AUH_ww1_fortify_coast_dalmatia:0 "Fortify the Dalmatian Coast"
- AUH_ww1_fortify_coast_dalmatia_desc:0 "Though we don't have a super strong navy, we still posess a long coastline, which must be defended if a front from the Balkans to Italy is not to be established, which would be a disaster for our war effort. Improving existing coastal forts and construction of new ones, as well as a few conventional forts in the area just in case, can help make sure that we never have to face that nightmare scenario." 
+ AUH_ww1_fortify_coast_dalmatia_desc:0 "Though we don't have a very strong navy, we still posess a long coastline, which must be defended if a front from the Balkans to Italy is not to be established, which would be a disaster for our war effort. Improving existing coastal forts and construction of new ones can help make sure that we never have to face that nightmare scenario." 
 
  AUH_ww1_ready_country:0 "Recruitment Propaganda"
  AUH_ww1_ready_country_desc:0 "According to Austria-Hungary, the Austro-Hungarian army is the most prestigous employer in the world. By circulating positive news and information about our country and armed forces, we can build enthusiasm in otherwise apathetic men, helping our military out."
@@ -389,7 +389,7 @@ AUH_ww1_italy_honnor_pact_desc:0 "Italy is now essentially forced to join up in 
  AUH_ww1_polnische_wehrmacht_desc:0 "If we promise the Poles their own nationstate after the war, perhaps the residents of our part of Poland will be more willing to join in on the action. Whether we cede the territory or not is, of course, a matter to be decided yet, but for now, we can enjoy the influx of able-bodied men without thinking of the consequences." 
  
  AUH_ww1_military_harmonization:0 "Military Harmonization"
- AUH_ww1_military_harmonization_desc:0 "An army with 3 subdivisions in its land forces alone is no easy thing to keep in check, but lately our officers have become more and more accustomed to dealing with the intricacies of such a force. As our military begins to operate more organically and in a more unified fashion, more ideas are coming to the top level, which is beneficial to our doctrine."
+ AUH_ww1_military_harmonization_desc:0 "An army with 3 subdivisions in its land forces alone is no easy thing to keep in check, but lately our officers have become more accustomed to dealing with the intricacies of such a force. As our military begins to operate more organically and in a more unified fashion, more ideas are coming to the top level, which is beneficial to our doctrine."
 
  AUH_ww1_balkans_policy:0 "Balkans Policy"
  AUH_ww1_balkans_policy_desc:0 "Since acquiring and annexing Bosnia, we have sought to keep our stake in the Balkans safe, and, admittedly, keep expanding in that area if we get an easy, cheap opportunity to. By establishing our argument on the world stage, we can become more actively involved in the politics of the Balkan region." 
@@ -404,7 +404,7 @@ AUH_ww1_italy_honnor_pact_desc:0 "Italy is now essentially forced to join up in 
  AUH_ww1_balkans_bulgaria_send_troops_desc:0 "To ensure Bulgaria at least has a fighting chance not to get annexed, we can send in some of our own troops, nominally volunteers, to try and give Bulgaria at least some edge in the conflict. This will provide some much-needed experience, and keep pushing Bulgaria more into our corner."
 
  AUH_ww1_balkans_serbian_expansion:0 "Investigate Serbian Expansionism"
- AUH_ww1_balkans_serbian_expansion_desc:0 "Though the Serbians have been nominally friendly towards Austria since they achieved full fledged independence, since we've annexed Bosnia, things have been much less friendly betwen the Serbian government. Due to a sharp uptick in crime, especially from recent immigrants of Serbia right on the inside our borders, an investigation on Serbian activities in Austria must be carried out."
+ AUH_ww1_balkans_serbian_expansion_desc:0 "Though the Serbians were once allied to our state, since we've annexed Bosnia, things have been much less friendly betwen the Serbian government. Due to a sharp uptick in crime, especially from recent immigrants of Serbia right on the inside our borders, an investigation on Serbian activities in Austria must be carried out."
 
  AUH_ww1_balkans_serbian_ultimatum:0 "Send Ultimatum to Serbia"
  AUH_ww1_balkans_serbian_ultimatum_desc:0 "So, the Serbian bastards WERE just trying to stir up rebellions to get their grubby hands on our South Slavic provinces! They should be punished for this clear breach of trust, and our good Kaiser has begun to prepare an ultimatum to the Serbian government, which they surely will be in no position to refuse."
@@ -414,4 +414,5 @@ AUH_ww1_italy_honnor_pact_desc:0 "Italy is now essentially forced to join up in 
 kis_italy_accept_auh_offer:0 "Accepted the Austria-Hungaria Offer"
 kis_romania_accept_auh_offer:0 "Accepted the Austria-Hungaria Offer"
 second_balkan_war:0 "Second Balkan War"
+kis_secondbalkan_war:0 "Second Balkan War"
 kis_auh_unifyrealm_focus:0 "United Realm"

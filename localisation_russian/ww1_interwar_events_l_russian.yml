@@ -1,0 +1,37 @@
+﻿l_english:
+
+ # Beer Hall Putsch
+ ww1_germany.23.t:0 "Coup Attempt in Germany"
+ ww1_germany.23.d:0 "A group of fascists lead by Erich Ludendorff and Adolf Hitler are trying to seize power in Munich.\nHow should we respond?"
+ ww1_germany.23.a:0 "Let them, they are insignificant..."
+ ww1_germany.23.b:0 "Send the Army!"
+
+ # Hitler Chancellor of Germany
+ interwar_news.1.t:0 "A New Chancellor for Germany"
+ interwar_news.1.d:0 "On this day, Adolf Hitler is named Chancellor of Germany. Hitler frequently denounced international capitalism and communism and promised to extend the Lebensraum (living space) for the German people in Eastern Europe."
+ interwar_news.1.a:0 "What will this mean for Germany?"
+
+ # March on Rome (Mussolini)
+ interwar_news.2.t:0 "March on Rome"
+ interwar_news.2.d:0 "Benito Mussolini, Emilio De Bono, Italo Balbo and Cesare Maria De Vecchi alongside 30,000 men, marched on Rome. King Victor Emmanuel III handed power to Benito Mussolini."
+ interwar_news.2.a:0 "A New Duce for Italy"
+
+ # Wall Street Crash
+ interwar_news.3.t:0 "Wall Street Crash"
+ interwar_news.3.d:0 "The Wall Street Crash is was the most devastating stock market crash in the history of the United States.\n\nThe crash, that had followed the London Stock Exchange's crash of September will affect all Western industrialized countries.\n\nOverall, prosperity and unregulated business had led to a very active and volatile stock market.\nDespite the dangers of speculation, many believed that the stock market would continue to rise forever."
+ interwar_news.3.a:0 "Don't Panic, It will be Fine"
+
+  # Lenin Death
+ interwar_news.4.t:0 "Lenin is Dead"
+ interwar_news.4.d:0 "Vladimir Ilyich Ulyanov, better known by the alias Lenin, is dead. Lenin leaded the Socialist Revolution in Russia; he became an ideological figurehead behind Marxism-Leninism and thus a prominent influence over the international communist movement.\nWith his death, the Soviet Union has no leader anymore. The Members of the Politburo will act as interim."
+ interwar_news.4.a:0 "Is it the End of Soviet Union?"
+
+  # Revolution in Egypt >>> https://en.wikipedia.org/wiki/Egyptian_revolution_of_1919
+ interwar_news.5.t:0 "Revolution in Egypt"
+ interwar_news.5.d:0 "Shortly after the Great War Armistice was concluded in Europe, a delegation of Egyptian nationalist activists led by Saad Zaghlul made a request to High Commissioner Reginald Wingate to end the British Protectorate in Egypt and Sudan, and gain Egyptian representation at the next peace conference in Paris.\n\nMeanwhile, a mass movement for the full independence of Egypt and Sudan was being organised at a grassroots level, using the tactics of civil disobedience. By then, Zaghlul and the Wafd Party enjoyed massive support among the Egyptian people. Wafdist emissaries went into towns and villages to collect signatures authorizing the movement's leaders to petition for the complete independence of the country."
+ interwar_news.5.a:0 "How the British Empire will respond?"
+
+  # Polish–Soviet War >>> https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War
+ interwar_news.6.t:0 "Polish–Soviet War"
+ interwar_news.6.d:0 "Soviets saw Poland as the bridge the Red Army had to cross to assist other communist movements and bring about other European revolutions."
+ interwar_news.6.a:0 "Can Poland defend itself against Russia?"

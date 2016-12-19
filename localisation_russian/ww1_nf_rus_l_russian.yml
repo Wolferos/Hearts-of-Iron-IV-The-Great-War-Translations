@@ -65,11 +65,11 @@ RUS_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  RUS_ww1_aviation_effort:0 "Form Imperial Russian Air Service"
   RUS_ww1_aviation_effort_desc:0 "" #KAISER_ANONY
 
- RUS_favor_sikorsky:0 "Favor Sikorsky"
- RUS_favor_sikorsky_desc:0 "" #KAISER_ANONY
+ RUS_ww1_sikorsky_airplane_research:0 "Sikorsky's Airplane Research"
+ RUS_ww1_sikorsky_airplane_research_desc:0 "" #KAISER_ANONY
 
- RUS_contract_rbvz:0 "Sign a contract with RBVZ"
- RUS_contract_rbvz_desc:0 "" #KAISER_ANONY
+ RUS_ww1_rbvz_production:0 "Russko-Baltiisky Vagonny Zavod"
+ RUS_ww1_rbvz_production_desc:0 "" #KAISER_ANONY
 
  RUS_ww1_fighter_focus:0 "Fighter Focus"
  RUS_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
@@ -169,8 +169,8 @@ RUS_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  RUS_ww1_extra_tech_slot:0 "Extra Research Slot"
  RUS_ww1_extra_tech_slot_desc:0 "" #KAISER_ANONY
 
- RUS_expand_the_academy_of_sciences:0 "Expand The Academy of Sciences"
- RUS_expand_the_academy_of_sciences_desc:0 "" #KAISER_ANONY
+ RUS_ww1_expand_the_academy_of_sciences:0 "Expand The Academy of Sciences"
+ RUS_ww1_expand_the_academy_of_sciences_desc:0 "" #KAISER_ANONY
 
  #--------------------------------------------------------------
 
@@ -183,14 +183,11 @@ RUS_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  RUS_ww1_newnavalcanons_1:0 "Naval Gun Effort"
  RUS_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
 
- RUS_baltik_focus:0 "Baltic Sea Focus"
- RUS_baltik_focus_desc:0 "" #KAISER_ANONY
+ RUS_ww1_european_seas_focus:0 "European Focus"
+ RUS_ww1_european_seas_focus_desc:0 "" #KAISER_ANONY
 
- RUS_black_sea_focus:0 "Black Sea Focus"
- RUS_black_sea_focus_desc:0 "" #KAISER_ANONY
-
- RUS_far_east_focus:0 "Sea of Japan Focus"
- RUS_far_east_focus_desc:0 "" #KAISER_ANONY
+ RUS_ww1_asian_seas_focus:0 "Asian Focus"
+ RUS_ww1_asian_seas_focus_desc:0 "" #KAISER_ANONY
 
  RUS_ww1_newnavalcanons_2:0 "Naval Gun Effort"
  RUS_ww1_newnavalcanons_2_desc:0 "" #KAISER_ANONY
@@ -431,23 +428,20 @@ RUS_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  RUS_ww1_friend_with_auh:0 "Second Russo-Austrian Agreement"
  RUS_ww1_friend_with_auh_desc:0 "" #KAISER_ANONY
 
- RUS_balkan_corridor:0 "Balkan Corridor"
- RUS_balkan_corridor_desc:0 "" #KAISER_ANONY
+ RUS_ww1_support_serbia_weapons:0 "Support Serbia"
+ RUS_ww1_support_serbia_weapons_desc:0 "" #KAISER_ANONY
 
- RUS_peters_dream:0 "Peter's Dream"
- RUS_peters_dream_desc:0 "" #KAISER_ANONY
+ RUS_ww1_restore_russia_glory:0 "Restore Russia's Former Glory"
+ RUS_ww1_restore_russia_glory_desc:0 "" #KAISER_ANONY
 
- RUS_triumph_of_orthodoxy:0 "Triumph of Orthodoxy"
- RUS_triumph_of_orthodoxy_desc:0 "" #KAISER_ANONY
+ RUS_ww1_avenge_fall_constantinople:0 "Avenge 1453"
+ RUS_ww1_avenge_fall_constantinople_desc:0 "The Fall of Constantinople was the capture of the capital of the Byzantine Empire by an invading army of the Ottoman Empire on 29 May 1453. The Ottomans were commanded by Mehmed the Conqueror, the seventh sultan of the Ottoman Empire, who defeated an army commanded by Byzantine Emperor Constantine XI Palaiologos."
 
  RUS_wilhlems_deal:0 "Deal with Wilhlem II"
  RUS_wilhlems_deal_desc:0 "" #KAISER_ANONY
 
- RUS_invest_in_poland:0 "Invest in Poland"
- RUS_invest_in_poland_desc:0 "" #KAISER_ANONY
-
- RUS_invest_in_ukraine:0 "Invest in Ukraine"
- RUS_invest_in_ukraine_desc:0 "" #KAISER_ANONY
+ RUS_ww1_invest_west:0 "Invest in the West"
+ RUS_ww1_invest_west_desc:0 "" #KAISER_ANONY
 
  RUS_around_manchuria:0 "Invest in Outer Manchuria"
  RUS_around_manchuria_desc:0 "" #KAISER_ANONY
@@ -461,11 +455,11 @@ RUS_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  RUS_ww1_JoinCentralPowers:0 "Knife in the Back"
  RUS_ww1_JoinCentralPowers_desc:0 "" #KAISER_ANONY
 
- RUS_reinforce_western_forts:0 "Reinforce Western Border"
- RUS_reinforce_western_forts_desc:0 "" #KAISER_ANONY
+ RUS_ww1_reinforce_western_forts:0 "Reinforce Western Border"
+ RUS_ww1_reinforce_western_forts_desc:0 "" #KAISER_ANONY
 
- RUS_contain_germany:0 "Contain Germany"
- RUS_contain_germany_desc:0 "" #KAISER_ANONY
+ RUS_ww1_defy_germany:0 "Defy Germany"
+ RUS_ww1_defy_germany_desc:0 "" #KAISER_ANONY
 
  RUS_annex_northern_persia:0 "Occupy Northern Persia"
  RUS_annex_northern_persia_desc:0 "" #KAISER_ANONY
@@ -479,8 +473,8 @@ RUS_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  RUS_guarantee_serbia:0 "Guarantee Serbia"
  RUS_guarantee_serbia_desc:0 "" #KAISER_ANONY
 
- RUS_Add_fuel_to_the_fire:0 "Spark the Powder Keg"
- RUS_Add_fuel_to_the_fire_desc:0 "" #KAISER_ANONY
+ RUS_ww1_add_fuel_to_the_fire:0 "Spark the Powder Keg"
+ RUS_ww1_add_fuel_to_the_fire_desc:0 "" #KAISER_ANONY
 
  RUS_ww1_support_serbia:0 "Orthodox Brotherhood"
  RUS_ww1_support_serbia_desc:0 "" #KAISER_ANONY
@@ -491,14 +485,14 @@ RUS_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  RUS_european_focus:0 "Western Focus"
  RUS_european_focus_desc:0 "" #KAISER_ANONY
 
- RUS_scandinavia_focus:0 "Politics in Scandinavia"
- RUS_scandinavia_focus_desc:0 "" #KAISER_ANONY
+ RUS_ww1_scandinavia_focus:0 "Politics in Scandinavia"
+ RUS_ww1_scandinavia_focus_desc:0 "" #KAISER_ANONY
 
  RUS_asian_focus:0 "Assert Russian Position in Asia"
  RUS_asian_focus_desc:0 "" #KAISER_ANONY
 
- RUS_revenge_against_japan:0 "Revoke Treaty of Portsmouth"
- RUS_revenge_against_japan_desc:0 "" #KAISER_ANONY
+ RUS_ww1_treaty_portsmouth:0 "Revoke Treaty of Portsmouth"
+ RUS_ww1_treaty_portsmouth_desc:0 "" #KAISER_ANONY
 
  RUS_annex_manchurian_sphere:0 "Occupy Manchuria"
  RUS_annex_manchurian_sphere_desc:0 "" #KAISER_ANONY

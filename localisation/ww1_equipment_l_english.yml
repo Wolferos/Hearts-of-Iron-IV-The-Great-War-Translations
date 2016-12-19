@@ -728,7 +728,8 @@
 
 # HOI4 TGW
 
- artillery_equipment_1:0 "Field Artillery"
+ artillery_equipment_1:0 "Towed Artillery"
+ artillery_equipment_1_short:0 "Artillery"
  artillery_equipment_1_desc:0 "Artillery refers to large-caliber weapons, such as cannons and howitzers that are operated by crews, which can project munitions far beyond the effective range of personal weapons."
 
  artillery_equipment_1914:0 "Early Artillery"

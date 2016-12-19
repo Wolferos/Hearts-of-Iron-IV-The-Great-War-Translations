@@ -1,0 +1,20 @@
+﻿l_english:
+
+# 0.1.5
+
+#--------------------------------------------------------------
+# [FRANCE] Interwar
+#=========================================================================
+FRA_interwar_allied_occupation_rhineland:0 "Allied Occupation of the Rhineland"
+FRA_interwar_allied_occupation_rhineland_desc:0 "" #WE NEED A DESC FOR THAT
+
+FRA_interwar_annees_folles:0 "Les Années Folles"
+FRA_interwar_annees_folles_desc:0 "" #WE NEED A DESC FOR THAT
+
+FRA_interwar_occupation_ruhr:0 "Occupation of the Ruhr"
+FRA_interwar_occupation_ruhr_desc:0 "" #WE NEED A DESC FOR THAT
+
+FRA_interwar_great_depression:0 "Recover after the Great Depression"
+FRA_interwar_great_depression_desc:0 "" #WE NEED A DESC FOR THAT
+
+############################################################################################

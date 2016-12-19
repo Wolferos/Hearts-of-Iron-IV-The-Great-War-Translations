@@ -1235,9 +1235,18 @@
  kis_news.116.d:0 "Italy today has officially backstabbed its former allies in the Central Powers to join the Entente, at the behest of France. Though this move is not unexpected, or unprecedented for Italy, the Italian state may find itself unprepared for war with their former allies. Of course, it goes without saying that if they lose now, they'll not like the result."
  kis_news.116.a:0 "What's to stop them doing it again?"
 
- kis_news.116.t:0 "Italy joined the Central Powers"
- kis_news.116.d:0 "Italy, a former member of the Triple Alliance, the predecessor of the Central Powers, has formally joined the new version of their alliance. French observers are outraged that their attempts to bring them to their side failed, and promise Italy hell to pay."
- kis_news.116.a:0 "That's almost surprising."
+ kis_news.117.t:0 "Italy joined the Central Powers"
+ kis_news.117.d:0 "Italy, a former member of the Triple Alliance, the predecessor of the Central Powers, has formally joined the new version of their alliance. French observers are outraged that their attempts to bring them to their side failed, and promise Italy hell to pay."
+ kis_news.117.a:0 "That's almost surprising."
+
+ kis_news.118.t:0 "First Flight across Mediterranean Sea"
+ kis_news.118.d:0 "On 23 September 1913, Roland Garros took off from Fréjus in the south of France onboard a Morane-Saulnier monoplane. He landed 7 hours and 53 minutes later in Bizerte in Tunisia, after a flight of almost 800km. Having left France with more than 200 litres of full in his tank, less than 10 litres were left on arrival the other side of the sea !\n\nBorn in the French island of Reunion in 1888, Roland Garros participated in aviation competitions and airshows and broke the world record of altitude in a powered aeroplane in 1912."
+ kis_news.118.a:0 "Amazing"
+
+ kis_news.119.t:0 "End of the Xinhai Revolution"
+ kis_news.119.d:0 "Following the Xinhai Revolution, the Qing Dynasty is beaten and the Republic of China is proclaimed"
+ kis_news.119.a:0 "Ok"
+
 
  # First Balkan War
  ww1_firstbalkan.1.t:0 "The Balkan League"
@@ -1418,11 +1427,11 @@
  ww1_zimmermanntelegram.4.b:0 "Refuse the Offer"
 
  ww1_zimmermanntelegram.5.t:0 "Meixco Accepted the German Offer"
- ww1_zimmermanntelegram.5.d:0 "Arthur Zimmerman has authorized a diplomatic offer to Mexico, asking for Mexican support against the Entente in exchange for German support in the case of American intervention- and, of course, territorial compensation in the latter case.\n\nMexico has agreed to this agreement"
+ ww1_zimmermanntelegram.5.d:0 "Arthur Zimmerman has authorized a diplomatic offer to Mexico, asking for Mexican support against the Entente in exchange for German support in the case of American intervention and, of course, territorial compensation in the latter case.\n\nMexico has agreed to this agreement"
  ww1_zimmermanntelegram.5.a:0 "What does it mean for USA?"
 
  ww1_zimmermanntelegram.6.t:0 "Meixco Refused the German Offer"
- ww1_zimmermanntelegram.6.d:0 "Arthur Zimmerman has authorized a diplomatic offer to Mexico, asking for Mexican support against the Entente in exchange for German support in the case of American intervention- and, of course, territorial compensation in the latter case.\n\nMexico has refused this agreement"
+ ww1_zimmermanntelegram.6.d:0 "Arthur Zimmerman has authorized a diplomatic offer to Mexico, asking for Mexican support against the Entente in exchange for German support in the case of American intervention and, of course, territorial compensation in the latter case.\n\nMexico has refused this agreement"
  ww1_zimmermanntelegram.6.a:0 "Will they remain neutral?"
 
  # Agadir Crisis
@@ -1477,6 +1486,20 @@
  ww1_italianturkish.5.t:0 "Italians Refuse"
  ww1_italianturkish.5.d:0 "The Italians have foolishly declined to take our offer of peace."
  ww1_italianturkish.5.a:0 "Fight to the Death!"
+
+ # Treaty of Versailles
+ ww1_armistice.3.t:0 "Armistice with the Allies"
+ ww1_armistice.3.d:0 "The German Supreme Army Command informed the Imperial Chancellor at Imperial Army Headquarters, that the military situation facing Germany was hopeless./nTo save the face of the Imperial German Army and put the responsibility for the capitulation and its consequences squarely into the hands of our Political opponents, we must sign an Armistice with the Allies."
+ ww1_armistice.3.a:0 "Sadly, we have no other choice..."
+
+ ww1_armistice.1.t:0 "Armistice of Compiègne"
+ ww1_armistice.1.d:0 "An Armistice has been signed between the Allies and Germany.\nAlso known as the Armistice of Compiègne, this agreement ended the fighting and marked a victory for the Allies and a complete defeat for Germany.\nThe German delegation headed by Matthias Erzberger crossed the front line in five cars and was escorted for ten hours across the devastated war zone of Northern France. They were then entrained and taken to the secret destination, aboard Ferdinand Foch's private train parked in a railway siding in the forest of Compiègne.\nThere was no question of negotiation. The Germans were able to correct a few impossible demands extended the schedule for the withdrawal and registered their formal protest at the harshness of Allied terms. But they were in no position to refuse to sign."
+ ww1_armistice.1.a:0 "The Great War is Over"
+
+ ww1_armistice.2.t:0 "Treaty of Versailles"
+ ww1_armistice.2.d:0 "The Treaty of Versailles has been signed, it ends the state of war between Germany and the Allied Powers. The Treaty of Versailles is a Treaty of Peace between the Allied and Associated Powers and Germany.\n\nOf the many provisions in the Treaty, one of the most important and controversial required Germany to accept the responsibility of Germany and her allies for causing all the loss and damage during the War.\n\nThe Treaty force Germany to disarm, make substantial territorial concessions, and pay reparations to certain countries."
+ ww1_armistice.2.a:0 "It looks like a Carthaginian Peace..."
+
 
  # GENERIC
  generic.2.t:0 "Choose your difficulty"

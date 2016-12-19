@@ -272,6 +272,9 @@ SER_ww1_limited_rearmament_desc:0 "" #KAISER_ANONY
  SER_ww1_full_rearmament:0 "Full Rearmament"
 SER_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
 
+ SER_ww1_military_youth:0 "Military Youth"
+ SER_ww1_military_youth_desc:0 "" #KAISER_ANONY
+
  SER_ww1_unitedpeople:0 "Patriotic Fervor"
 SER_ww1_unitedpeople_desc:0 "" #KAISER_ANONY
 

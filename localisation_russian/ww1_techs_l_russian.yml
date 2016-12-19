@@ -95,3 +95,14 @@ ww1_medicine4_desc:0 "No one enjoys getting a shot, but on the battlefield, bein
 ww1_medicine5:0 "Hospital Modernization"
 ww1_medicine5_desc:0 "Though our field surgeons are now all well and good, we cannot forget our proper hospitals behind the lines. Ensuring that these men have everything they need to deal with all possible comers suffering afflictions from shell shock to gas wounds, and even, perhaps, perform reconstructive surgery or other wild new techniques, will lead to even more men surviving a close encounter of the front lines."
 
+
+
+
+
+
+
+hoi4tgw_decryption:0 "Decryption - Cryptanalysis"
+hoi4tgw_decryption_desc:0 "Decryption is the reverse, in other words, moving from the unintelligible ciphertext back to plaintext."
+
+hoi4tgw_encryption:0 "Encryption - Cryptography"
+hoi4tgw_encryption_desc:0 "Until modern times, cryptography referred almost exclusively to encryption, which is the process of converting ordinary information into unintelligible text."
